@@ -1,9 +1,25 @@
-Development Alpha			
-18	Filter checkboxes to be enabled		
-19	Moddex options		
-20	Handrail assembly		
-21	Product code save-in always load NAME by default		
-22	Loading attributes taking some delay		
-23	Minus handler not to collapse treeviewitem		
-24	Mounting bracket slot to follow slope on RotationX		
-25	Closure bends to follow slope on RotationX		
+New Features
+Mounting bracket slotted hole should not applies to kickplate
+Part attributes to allow closure bends with product code
+Ability to add user-defined attributes
+Allow baseplates and mounting brackets to be part added
+More weld options
+Ability to modify finish of mainpart
+Product code is not working
+Option to remove balls on stanchion
+Different name/product code for start/end/intermediate stanchion
+Add Rapid options
+Ability to have rotation along x/y/z axis
+Handrails perpendicular to the rafter/picked point
+Ability to offset kickplate height based on grating thickness
+Add kickplate dimension "D" to product codes
+
+Known bugs
+Filter checkboxes are disabled
+Moddex options not implemented
+Monowills Aluminium/Stainless steel and Jumbo currently turned off
+Pressing the subtract in keyboard collapse some treeview item
+Closure bends to follow slope on RotationX
+Mounting base should stay along the girder/platform on RotationX
+Finish right button is not working right away, needs left to be click first
+
