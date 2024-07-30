@@ -22,6 +22,7 @@ Pressing the subtract in keyboard collapse some treeview item
 Closure bends to follow slope on RotationX
 Mounting base should stay along the girder/platform on RotationX
 Finish right button is not working right away, needs left to be click first
+Base mounting dropdown not working. But left/right button works
 
 In Progress
 Sloping angle to be added in the UDA
