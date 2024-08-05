@@ -23,6 +23,8 @@ Closure bends to follow slope on RotationX
 Mounting base should stay along the girder/platform on RotationX
 Finish right button is not working right away, needs left to be click first
 Base mounting dropdown not working. But left/right button works
+Changing the base mount also change the number of stanchions
+Setting a second kickplate mounting bracket not working
 
 In Progress
 Sloping angle to be added in the UDA
