@@ -25,6 +25,7 @@ Finish right button is not working right away, needs left to be click first
 Base mounting dropdown not working. But left/right button works
 Changing the base mount also change the number of stanchions
 Setting a second kickplate mounting bracket not working
+Loading AM mount base set the depth of plate to behind. Should be front
 
 In Progress
 Sloping angle to be added in the UDA
